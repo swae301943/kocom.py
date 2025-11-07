@@ -9,7 +9,7 @@
       "description": "kocom",
       "stage": "stable",
       "stage_description": "안정 버전입니다.",
-      "url": "https://github.com/swae301943/kocom.py.git/tree/main/kocom.py",
+      "url": "https://github.com/swae301943/kocom.py.git",
       "stage_description": "안정적인 버전입니다."
     }
   ]
